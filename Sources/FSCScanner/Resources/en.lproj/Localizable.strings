@@ -1,0 +1,15 @@
+// English
+"cms_scanners_invalid_qr_code" = "The scanned QR code is invalid.";
+"cms_scanners_scanning_not_supported" = "Your device does not support QR code scanning. Please use a device with a camera.";
+"cms_scanners_alert_message_enable_camera" = "To enable access, tap on \"Settings\" and turn on camera access for this app.";
+"cms_scanners_alert_title_cemera_denied" = "Unable to access the camera";
+"cms_scanners_generic_settings" = "Settings";
+"cms_scanners_generic_no" = "Cancel";
+
+"cms_tag_intro_message" = "Hold your iPhone near the item to learn more about it.";
+"cms_tag_multiple_tag_detected" = "More than 1 tag is detected, please remove all tags and try again.";
+"cms_tag_unable_to_connect" = "Unable to connect to tag.";
+"cms_tag_not_compliant" = "Tag is not NDEF compliant";
+"cms_tag_status_not_readable" = "Unable to query NDEF status of tag";
+"cms_tag_failed_to_read" = "Fail to read NDEF from tag";
+"cms_tag_read_success" = "Found 1 NDEF message";
